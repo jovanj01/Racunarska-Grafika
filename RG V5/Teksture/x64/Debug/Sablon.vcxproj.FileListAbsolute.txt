@@ -1,0 +1,2 @@
+D:\Fakultet\GRAFIKA\proj\RG V5\Teksture\x64\Debug\glew32.dll
+D:\Fakultet\GRAFIKA\proj\RG V5\Teksture\x64\Debug\Sablon.exe
